@@ -1,0 +1,12 @@
+body{
+  background:#5D3A3A;
+
+}
+.ver{
+  background:#B5E0BA;
+  height: 150px;
+  width: 150px;
+  top:20px;
+  left:30px;
+  position: absolute;
+}
